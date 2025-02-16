@@ -1,0 +1,116 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://seeklogo.com/vector-logo/512091/bnt-1" group-title="Main",BNT 1
+
+http://84.54.128.46:550/iptv/BNT_1/Index.m3u8
+#EXTINF:-1 tvg-logo="https://bg.m.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:BTV-logo.png" group-title="Main",BTV
+
+http://84.54.128.46:550/iptv/BTV/Index.m3u8
+#EXTINF:-1 tvg-logo="https://bg.m.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:NOVA_logo.svg" group-title="Main",NOVA
+
+http://84.54.128.46:550/iptv/NOVA/Index.m3u8
+#EXTINF:-1 tvg-logo="https://www.btv.bg/comedy/news/s-novo-logo-slogan-i-vesela-kompanija-btv-comedy-posreshta-praznicite-i-kraglata-godishnina-ot-svoja-debjut-v-televizionnija-efir-na-balgarija.html" group-title="Main",BTV COMEDY
+
+http://84.54.128.46:550/iptv/BTV_Comedy/Index.m3u8
+#EXTINF:-1 tvg-logo="https://bg.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:BTV_Action_Bulgaria_logo.svg" group-title="Main",BTV ACTION
+
+http://84.54.128.46:550/iptv/BTV_Action/Index.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/vector-logo/478882/btv-cinema-bulgaria.svf" group-title="Main",BTV CINEMA
+
+http://84.54.128.46:550/iptv/BTV_Cinema/Index.m3u8
+#EXTINF:-1 tvg-logo="https://bg.m.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Diema_logo.png" group-title="Main",DIEMA
+
+http://84.54.128.46:550/iptv/Diema/Index.m3u8
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:Diema_Family_Bulgaria_logo.svg" group-title="Main",DIEMA FAMILY
+
+http://84.54.128.46:550/iptv/Diema_Family/Index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZiQjJyIefUAn5xQm06Cy8I_pStSeIfiF3Yg&s.svg" group-title="Main",KINO NOVA
+
+http://84.54.128.46:550/iptv/Diema_2/Index.m3u8
+#EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/File:TLC_Logo.svg" group-title="Main",TLC
+
+http://84.54.128.46:550/iptv/TLC/Index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNa27ddYy7G7Iqq5WFJeSSLJSDYGRJV4b6dQ&s.png" group-title="Main",BNT 2
+
+http://84.54.128.46:550/iptv/BNT_2/Index.m3u8
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bnt-4-tv6914.logowik.com.webp" group-title="Main",BNT 4
+
+http://84.54.128.46:550/iptv/BNT_4/Index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT8lcuIWjNpTZrY8jpak_snqOA-04v2j9vow&s.png" group-title="Main",TV 21
+
+http://84.54.128.46:550/iptv/TV21_HD/Index.m3u8
+#EXTINF:-1 tvg-logo="https://bg.m.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Diema_Sport_HD_logo.png" group-title="Sport",Diema Sport
+
+http://84.54.128.46:550/iptv/Diema_Sport/Index.m3u8
+#EXTINF:-1 tvg-logo="https://bg.m.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Diema_Sport_HD_logo.png" group-title="Sport",Diema Sport 2
+
+http://84.54.128.46:550/iptv/Diema_Sport_2/Index.m3u8
+#EXTINF:-1 tvg-logo="https://bg.m.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Diema_Sport_HD_logo.png" group-title="Sport",Diema Sport 3
+
+http://84.54.128.46:550/iptv/Diema_Sport_3/Index.m3u8
+#EXTINF:-1 tvg-logo="https://logos-world.net/eurosport-logo/.png" group-title="Sport",Eurosport
+
+http://84.54.128.46:550/iptv/Eurosport/Index.m3u8
+#EXTINF:-1 tvg-logo="https://logos-world.net/eurosport-logo/.png" group-title="Sport",Eurosport 2
+
+http://84.54.128.46:550/iptv/Eurosport_2/Index.m3u8
+#EXTINF:-1 tvg-logo="https://bg.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:RING.BG.jpg" group-title="Sport",RING BG
+
+http://84.54.128.46:550/iptv/RING_BG/Index.m3u8
+#EXTINF:-1 tvg-logo="https://freebiesupply.com/logos/national-geographic-logo-2.png" group-title="Documentary",NAT GEO CHANNEL
+
+http://84.54.128.46:550/iptv/National_Geographic/Index.m3u8
+#EXTINF:-1 tvg-logo="https://freebiesupply.com/logos/national-geographic-logo-2.png" group-title="Documentary",NAT GEO WIld
+
+http://84.54.128.46:550/iptv/Nat_Geo_Wild_HD/Index.m3u8
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:Id_xtra_large.jpg" group-title="Documentary",Discovery ID Xtra
+
+84.54.128.46:550/iptv/DISCOVERY_ID_XTRA_HD/Index.m3u8
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:Animal_Planet.png" group-title="Documentary",Animal Planet
+
+84.54.128.46:550/iptv/Animal_Planet/Index.m3u8
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Planeta_HD_%28Bulgaria%29.png" group-title="Music",Planeta
+
+84.54.128.46:550/iptv/Planeta/Index.m3u8
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:Citytv_old_logo.svg" group-title="Music",CIty
+
+84.54.128.46:550/iptv/CIty_Tv/Index.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/vector-logo/323917/the-voice.png" group-title="Music",The Voice
+
+84.54.128.46:550/iptv/The_Voice/Index.m3u8
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/44/1/18-logo-png_seeklogo-445011.png" group-title="Adult",Passion XXX
+
+84.54.128.46:550/iptv/Passion_XXX/Index.m3u8
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/44/1/18-logo-png_seeklogo-445011.png" group-title="Adult",Cento x Cento
+
+84.54.128.46:550/iptv/Cento_x_Cento/Index.m3u8
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/44/1/18-logo-png_seeklogo-445011.png" group-title="Adult",Cento x Cento 2
+
+84.54.128.46:550/iptv/Cento_x_Cento_2/Index.m3u8
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/44/1/18-logo-png_seeklogo-445011.png" group-title="Adult",Passion XXX 2
+
+84.54.128.46:550/iptv/Passion_XXX_2/Index.m3u8
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/44/1/18-logo-png_seeklogo-445011.png" group-title="Adult",Pinko Club
+
+84.54.128.46:550/iptv/Pinko_Club/Index.m3u8
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/44/1/18-logo-png_seeklogo-445011.png" group-title="Adult",Pinko Club
+
+84.54.128.46:550/iptv/Pinko_Club_2/Index.m3u8
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/44/1/18-logo-png_seeklogo-445011.png" group-title="Adult",XYPlus 2 HD
+
+84.54.128.46:550/iptv/XYPlus_2_HD/Index.m3u8
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/44/1/18-logo-png_seeklogo-445011.png" group-title="Adult",XYPlus HD
+
+84.54.128.46:550/iptv/XYPlus_HD/Index.m3u8
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/44/1/18-logo-png_seeklogo-445011.png" group-title="Adult",XYMIX HD
+
+84.54.128.46:550/iptv/XYMIX_HD/Index.m3u8
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/44/1/18-logo-png_seeklogo-445011.png" group-title="Adult",XYMIX HD 2
+
+84.54.128.46:550/iptv/XYMIX_2_HD/Index.m3u8
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/44/1/18-logo-png_seeklogo-445011.png" group-title="Adult",XYMAX HD 2
+
+84.54.128.46:550/iptv/XYMAX_2_HD/Index.m3u8
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/44/1/18-logo-png_seeklogo-445011.png" group-title="Adult",XYMAX HD
+
+84.54.128.46:550/iptv/XYMAX_HD/Index.m3u8
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/44/1/18-logo-png_seeklogo-445011.png" group-title="Adult",XYMAX HD
