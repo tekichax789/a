@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BNT 1" tvg-logo="https://seeklogo.com/vector-logo/512091/bnt-1" group-title="Main",BNT 1
+http://84.54.128.46:550/iptv/BNT_1/Index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BTV" tvg-logo="https://bg.m.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:BTV-logo.png" group-title="Main",BTV
+http://84.54.128.46:550/iptv/BTV/Index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NOVA" tvg-logo="https://bg.m.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:NOVA_logo.svg" group-title="Main",NOVA
+http://84.54.128.46:550/iptv/NOVA/Index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BTV COMEDY" tvg-logo="https://www.btv.bg/comedy/news/s-novo-logo-slogan-i-vesela-kompanija-btv-comedy-posreshta-praznicite-i-kraglata-godishnina-ot-svoja-debjut-v-televizionnija-efir-na-balgarija.html" group-title="Main",BTV COMEDY
+http://84.54.128.46:550/iptv/BTV_Comedy/Index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BTV ACTION" tvg-logo="https://bg.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:BTV_Action_Bulgaria_logo.svg" group-title="Main",BTV ACTION
+http://84.54.128.46:550/iptv/BTV_Action/Index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BTV CINEMA" tvg-logo="https://seeklogo.com/vector-logo/478882/btv-cinema-bulgaria.svf" group-title="Main",BTV CINEMA
+http://84.54.128.46:550/iptv/BTV_Cinema/Index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DIEMA" tvg-logo="https://bg.m.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Diema_logo.png" group-title="Main",DIEMA
+http://84.54.128.46:550/iptv/Diema/Index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DIEMA FAMILY" tvg-logo="https://commons.wikimedia.org/wiki/File:Diema_Family_Bulgaria_logo.svg" group-title="Main",DIEMA FAMILY
+http://84.54.128.46:550/iptv/Diema_Family/Index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KINO NOVA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZiQjJyIefUAn5xQm06Cy8I_pStSeIfiF3Yg&s.svg" group-title="Main",KINO NOVA
+http://84.54.128.46:550/iptv/Diema_2/Index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TLC" tvg-logo="https://en.m.wikipedia.org/wiki/File:TLC_Logo.svg" group-title="Main",TLC
+http://84.54.128.46:550/iptv/TLC/Index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BNT 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNa27ddYy7G7Iqq5WFJeSSLJSDYGRJV4b6dQ&s.png" group-title="Main",BNT 2
+http://84.54.128.46:550/iptv/BNT_2/Index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BNT 4" tvg-logo="https://logowik.com/content/uploads/images/bnt-4-tv6914.logowik.com.webp" group-title="Main",BNT 4
+http://84.54.128.46:550/iptv/BNT_4/Index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV 21" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT8lcuIWjNpTZrY8jpak_snqOA-04v2j9vow&s.png" group-title="Main",TV 21
+http://84.54.128.46:550/iptv/TV21_HD/Index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Diema Sport" tvg-logo="https://bg.m.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Diema_Sport_HD_logo.png" group-title="Sport",Diema Sport
+http://84.54.128.46:550/iptv/Diema_Sport/Index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Diema Sport 2" tvg-logo="https://bg.m.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Diema_Sport_HD_logo.png" group-title="Sport",Diema Sport 2
+http://84.54.128.46:550/iptv/Diema_Sport_2/Index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Diema Sport 3" tvg-logo="https://bg.m.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Diema_Sport_HD_logo.png" group-title="Sport",Diema Sport 3
+http://84.54.128.46:550/iptv/Diema_Sport_3/Index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport" tvg-logo="https://logos-world.net/eurosport-logo/.png" group-title="Sport",Eurosport
+http://84.54.128.46:550/iptv/Eurosport/Index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 2" tvg-logo="https://logos-world.net/eurosport-logo/.png" group-title="Sport",Eurosport 2
+http://84.54.128.46:550/iptv/Eurosport_2/Index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RING BG" tvg-logo="https://bg.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:RING.BG.jpg" group-title="Sport",RING BG
+http://84.54.128.46:550/iptv/RING_BG/Index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NAT GEO CHANNEL" tvg-logo="https://freebiesupply.com/logos/national-geographic-logo-2.png" group-title="Documentary",NAT GEO CHANNEL
+http://84.54.128.46:550/iptv/National_Geographic/Index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NAT GEO WIld" tvg-logo="https://freebiesupply.com/logos/national-geographic-logo-2.png" group-title="Documentary",NAT GEO WIld
+http://84.54.128.46:550/iptv/Nat_Geo_Wild_HD/Index.m3u8
